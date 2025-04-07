@@ -1,0 +1,14 @@
+subtype__v=subtype__v
+effective_date__v=effective_date__v
+name__v=name__v
+approved_date__c=approved_date__c
+minor_version_number__v=minor_version_number__v
+previous_document_number__c=previous_document_number__c
+File=file
+lifecycle__v=lifecycle__v
+training_impact__c=training_impact__c
+type__v=type__v
+major_version_number__v=major_version_number__v
+next_periodic_review_date__c=next_periodic_review_date__c
+departments_to_be_trained__c=departments_to_be_trained__c.name__v
+owning_department__v=owning_department__v.name__v
